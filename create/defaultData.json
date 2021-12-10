@@ -19,7 +19,7 @@
         ],
         "outfit": [],
         "relic": [],
-        "boots": [],
+        "boots": [76],
         "hat": [
             {
                 "ID": 17
@@ -581,7 +581,7 @@
         },
         "towers": {
             "earthtower": {
-                "achievementPagesCount": 1,
+                "achievementPagesCount": 1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
                 "wardenSaved": true,
                 "floors": 0,
                 "boss": true,
@@ -606,12 +606,12 @@
                 "lastRunTimeStamp": 1586794526632
             }
         ],
-        "hp": 500,
+        "hp": 1000000000000000,
         "memberStarsExpirationDate": 1607317199000,
         "arena": 7,
         "allowsHouseVisitors": true,
         "membershipVideoTimeStamp": 1628695635356,
-        "gold": 0,
+        "gold": 10000000000000000000000000000000000000000000000000000000000000000000000000000000,
         "numSpins1": 4,
         "loss": 3,
         "numSpins2": 1,
@@ -645,7 +645,7 @@
             "sfxVolume": 1
         },
         "level": 2,
-        "storedMemberStars": 0,
+        "storedMemberStars": 9999999999999999999999999,
         "previousZone": "bonfire_spire-C1",
         "stars": 26376,
         "team": 0,
